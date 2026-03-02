@@ -1,0 +1,5 @@
+﻿  solution.cpp
+D:\Leet\Medium\33. Search in Rotated Sorted Array\solution.cpp(8,66): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Search in Rotated Sorted Array.vcxproj -> D:\Leet\Medium\33. Search in Rotated Sorted Array\x64\Debug\Search in Rotated Sorted Array.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
