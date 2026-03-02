@@ -1,0 +1,15 @@
+build/
+*.exe
+*.out
+*.o
+!**/README.md
+.vscode/
+*.log
+*.tmp
+*.cache
+.idea/
+*.swp
+*.swo
+*~
+.git/
+.DS_Store
